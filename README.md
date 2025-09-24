@@ -40,6 +40,4 @@
 ## 📌 Notes  
 - Each assignment is organized in a separate folder.  
 - Code, analysis, and outputs are included in Jupyter Notebooks (`.ipynb`).  
-- Original Word documents with questions are optional and can be provided upon request.
-
   
